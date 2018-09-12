@@ -1,0 +1,6 @@
+A = "Happy " ;
+
+A += "Birthday" ;
+
+A += " !" ;
+PRINT A ;

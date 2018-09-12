@@ -1,0 +1,17 @@
+a = 7 ;
+a *= 70 ;
+a = 7 ;
+a += 10 ;
+b = 0 ;
+b += a ;
+b += b ;
+a = a ;
+a += 14 ;
+b += 21 ;
+PRINT a ;
+PRINT b ;
+a = "hello" ;
+b = "world" ;
+a += b ;
+PRINT a ;
+PRINT b ;

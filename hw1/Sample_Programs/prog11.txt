@@ -1,0 +1,8 @@
+A = 10 ;
+B = 0 ;
+FOR 1 { B += A ; A *= 5 ; }
+FOR 7 { B += A ; A *= 5 ; }
+FOR 1 { B += A ; A *= 5 ; }
+A += 1000 ;
+PRINT A ;
+PRINT B ;

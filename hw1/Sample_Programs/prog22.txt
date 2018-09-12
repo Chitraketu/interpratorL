@@ -1,0 +1,5 @@
+A = "3" ;
+B = "three" ; 
+WHILE B DO { A += 5 ; B = A LESSTHAN 15 ; }
+PRINT A ;
+PRINT B ;

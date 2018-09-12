@@ -1,0 +1,14 @@
+B = 10 ;
+A = B ;
+C = 30 ;
+D = 14 ;
+E = 101 ;
+E += C ;
+E += D ;
+A += E ;
+E += E ;
+PRINT A ;
+PRINT B ;
+PRINT C ;
+PRINT D ;
+PRINT E ;

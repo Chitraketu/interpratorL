@@ -1,0 +1,9 @@
+A = TRUE ;
+A &= TRUE ;
+PRINT A ;
+A &= FALSE ;
+PRINT A ;
+A &= TRUE ;
+PRINT A ;
+A = "TRUE" ;
+PRINT A ;

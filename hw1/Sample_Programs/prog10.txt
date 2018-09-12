@@ -1,0 +1,3 @@
+A = "AB" ;
+FOR 4 { A += A ; }
+PRINT A ;

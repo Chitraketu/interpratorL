@@ -1,0 +1,8 @@
+A = 17 ;
+a = 2 ;
+num = 0 ;
+Num = 1 ;
+a += A ;
+PRINT A ;
+PRINT a ;
+PRINT Num ;

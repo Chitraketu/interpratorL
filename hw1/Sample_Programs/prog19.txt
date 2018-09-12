@@ -1,0 +1,8 @@
+A = 5 ;
+B = 4 ;
+C = A LESSTHAN B ;
+PRINT A ;
+PRINT B ;
+PRINT C ;
+C = A LESSTHAN 0 ;
+PRINT C ;
